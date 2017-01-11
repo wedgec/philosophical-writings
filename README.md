@@ -13,10 +13,10 @@
 **Assignment**: Term paper  
 **Course:** Consciousness, Brain, and Self  
 **Professor**: Tzofit Ofengenden       
-**File:** Edgecomb_Master's_Thesis.pdf    
+**File:** Edgecomb_Term_Paper_Gesturing_and_Cognition.pdf 
 
 **Description:** In this paper I defend the view that co-speech gestures are literal constituents of cognition against objections raised by Michael Wheeler. 
 
 -----------
-Any comments, questions, or other feedback is welcome.  
+Comments, questions, or other feedback is welcome.  
 Email: wedgecomb1@gmail.com
