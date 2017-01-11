@@ -1,6 +1,5 @@
 # philosophical-writings
 ###Select Papers from Philosophy M.A. at Brandeis University
-<br>
 ####*Why the Separate-Modifiability Constraint does not Preclude a Non-Modular Mind*  
 **Assignment**: Master's Thesis  
 **First Reader**: Jerry Samet  
