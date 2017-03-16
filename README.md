@@ -1,6 +1,7 @@
 # philosophical-writings
 ### Select Papers from Philosophy M.A. at Brandeis University
-<br>
+
+
 #### *Why the Separate-Modifiability Constraint does not Preclude a Non-Modular Mind*  
 **Assignment**: Master's Thesis  
 **First Reader**: Jerry Samet  
@@ -9,8 +10,8 @@
 
 **Description:** This paper engages a controversy regarding the functional architecture of adaptive complex systems (e.g. minds, organisms). Specifically, I argue against the view that because of natural selection's need to make isolated adjustments to various functions over evolutionary time, adaptive complex systems are constrained to functional designs that are thoroughly modular in organization. I argue to the contrary that adaptive complex systems can implement integrated functional architectures and still remain evolutionarily robust, and I present hypotheses as to how this can be achieved. 
 
-<br>
-####*Does Cognition Extend Into Our Hands When We Gesture?*    
+
+#### *Does Cognition Extend Into Our Hands When We Gesture?*    
 **Assignment**: Term paper  
 **Course:** Consciousness, Brain, and Self  
 **Professor**: Tzofit Ofengenden       
